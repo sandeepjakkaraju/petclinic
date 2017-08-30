@@ -248,7 +248,6 @@
             <artifactId>hamcrest-all</artifactId>
             <scope>test</scope>
         </dependency>
-
         <!-- Dandelion -->
         <dependency>
             <groupId>com.github.dandelion</groupId>
